@@ -15,7 +15,10 @@ c. HARDWARE SETUP     11-2
  a. HARDWARE REQUIREMENTS 12-13 b. SOFTWARE REQUIREMENTS 14
 c. POWER CONSUMPTION OF THIS DEVICE 14
     11.0 BIBLIOGRAPHY AND REFERENCES   15
-vi
+vi![WhatsApp Image 2021-11-27 at 8 34 29 PM (1)](https://user-images.githubusercontent.com/78377154/147363671-fefa6bce-fa31-4004-97dd-876a77412a61.jpeg)
+![WhatsApp Image 2021-11-27 at 8 34 29 PM](https://user-images.githubusercontent.com/78377154/147363675-d6eb03ad-b484-47cc-91f8-41dbc005c398.jpeg)
+![WhatsApp Image 2021-11-27 at 8 37 08 PM](https://user-images.githubusercontent.com/78377154/147363676-674267b6-35f7-4f45-8523-16777b2477a3.jpeg)
+
  GLOSSARY
 ANDROID STUDIO: Android Studio is the official Integrated Development Environment (IDE) for Google’s Android Operating System and Android App Development, based on JetBrains IntelliJ IDEA.
 ARDUINO: Arduino is an open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices.
